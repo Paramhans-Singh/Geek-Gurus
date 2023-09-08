@@ -24,7 +24,7 @@
   
     flex-direction: column;
     padding-block: 1rem;
-    /* background-color: var(--clr-bg); */
+    background-color: var(--clr-bg);
 }
 
 .card_container {
@@ -41,6 +41,7 @@
    
 }
 
-/* .courses::-webkit-scrollbar {
+.courses::-webkit-scrollbar {
     display: none;
-    /* Safari and Chrome */
+    /* Safari and Chrome
+}
