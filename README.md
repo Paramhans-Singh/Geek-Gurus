@@ -12,7 +12,7 @@ Geek Gurus is an e-learning web application designed to provide users with acces
 - **Responsive Design**: Enjoy seamless access to courses and content across desktops, tablets, and smartphones.
 
 ## Geek Gurus Website Preview 
-
+https://github.com/Paramhans-Singh/Geek-Gurus/assets/101575816/432c26e2-cf78-4544-ac40-f7d3d6233b53
 
 ## Usage
 
